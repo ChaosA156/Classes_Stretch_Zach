@@ -1,0 +1,13 @@
+C:\Users\Zachory.Stretch\source\repos\Classes_Stretch_Zach\Classes_Stretch_Zach\bin\Debug\netcoreapp3.1\Classes_Stretch_Zach.exe
+C:\Users\Zachory.Stretch\source\repos\Classes_Stretch_Zach\Classes_Stretch_Zach\bin\Debug\netcoreapp3.1\Classes_Stretch_Zach.deps.json
+C:\Users\Zachory.Stretch\source\repos\Classes_Stretch_Zach\Classes_Stretch_Zach\bin\Debug\netcoreapp3.1\Classes_Stretch_Zach.runtimeconfig.json
+C:\Users\Zachory.Stretch\source\repos\Classes_Stretch_Zach\Classes_Stretch_Zach\bin\Debug\netcoreapp3.1\Classes_Stretch_Zach.runtimeconfig.dev.json
+C:\Users\Zachory.Stretch\source\repos\Classes_Stretch_Zach\Classes_Stretch_Zach\bin\Debug\netcoreapp3.1\Classes_Stretch_Zach.dll
+C:\Users\Zachory.Stretch\source\repos\Classes_Stretch_Zach\Classes_Stretch_Zach\bin\Debug\netcoreapp3.1\Classes_Stretch_Zach.pdb
+C:\Users\Zachory.Stretch\source\repos\Classes_Stretch_Zach\Classes_Stretch_Zach\obj\Debug\netcoreapp3.1\Classes_Stretch_Zach.csproj.AssemblyReference.cache
+C:\Users\Zachory.Stretch\source\repos\Classes_Stretch_Zach\Classes_Stretch_Zach\obj\Debug\netcoreapp3.1\Classes_Stretch_Zach.AssemblyInfoInputs.cache
+C:\Users\Zachory.Stretch\source\repos\Classes_Stretch_Zach\Classes_Stretch_Zach\obj\Debug\netcoreapp3.1\Classes_Stretch_Zach.AssemblyInfo.cs
+C:\Users\Zachory.Stretch\source\repos\Classes_Stretch_Zach\Classes_Stretch_Zach\obj\Debug\netcoreapp3.1\Classes_Stretch_Zach.csproj.CoreCompileInputs.cache
+C:\Users\Zachory.Stretch\source\repos\Classes_Stretch_Zach\Classes_Stretch_Zach\obj\Debug\netcoreapp3.1\Classes_Stretch_Zach.dll
+C:\Users\Zachory.Stretch\source\repos\Classes_Stretch_Zach\Classes_Stretch_Zach\obj\Debug\netcoreapp3.1\Classes_Stretch_Zach.pdb
+C:\Users\Zachory.Stretch\source\repos\Classes_Stretch_Zach\Classes_Stretch_Zach\obj\Debug\netcoreapp3.1\Classes_Stretch_Zach.genruntimeconfig.cache
